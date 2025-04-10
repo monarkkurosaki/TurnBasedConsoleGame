@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/monarkkurosaki/Desktop/RiderProjects/TurnBasedCombatGame/TurnBasedCombatGame/TurnBasedCombatGame.csproj",
+      "projectUniqueName": "/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/TurnBasedCombatGame.csproj",
       "projectName": "TurnBasedCombatGame",
-      "projectPath": "/Users/monarkkurosaki/Desktop/RiderProjects/TurnBasedCombatGame/TurnBasedCombatGame/TurnBasedCombatGame.csproj",
+      "projectPath": "/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/TurnBasedCombatGame.csproj",
       "packagesPath": "/Users/monarkkurosaki/.nuget/packages/",
-      "outputPath": "/Users/monarkkurosaki/Desktop/RiderProjects/TurnBasedCombatGame/TurnBasedCombatGame/obj/",
+      "outputPath": "/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/monarkkurosaki/.nuget/NuGet/NuGet.Config"

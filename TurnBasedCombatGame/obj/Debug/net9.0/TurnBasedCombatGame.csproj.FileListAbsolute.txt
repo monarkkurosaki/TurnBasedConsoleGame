@@ -1,0 +1,15 @@
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/bin/Debug/net9.0/TurnBasedCombatGame
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/bin/Debug/net9.0/TurnBasedCombatGame.deps.json
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/bin/Debug/net9.0/TurnBasedCombatGame.runtimeconfig.json
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/bin/Debug/net9.0/TurnBasedCombatGame.dll
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/bin/Debug/net9.0/TurnBasedCombatGame.pdb
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/TurnBasedCombatGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/TurnBasedCombatGame.AssemblyInfoInputs.cache
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/TurnBasedCombatGame.AssemblyInfo.cs
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/TurnBasedCombatGame.csproj.CoreCompileInputs.cache
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/TurnBasedCombatGame.sourcelink.json
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/TurnBasedCombatGame.dll
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/refint/TurnBasedCombatGame.dll
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/TurnBasedCombatGame.pdb
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/TurnBasedCombatGame.genruntimeconfig.cache
+/Users/monarkkurosaki/Desktop/TurnBasedCombatGame/TurnBasedCombatGame/obj/Debug/net9.0/ref/TurnBasedCombatGame.dll
